@@ -1,0 +1,35 @@
+# Node.js and package manager files
+node_modules
+package-lock.json
+yarn.lock
+
+# Build and distribution files
+build
+dist
+.cache
+.parcel-cache
+
+# Environment variables files
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*~
+*.tmp
+*.bak
+
+# OS and system files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Debug and temporary files
+*.dump
+*.out
+*.lock
